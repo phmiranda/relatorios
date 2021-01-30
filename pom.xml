@@ -6,7 +6,7 @@
 
   <name>relatorios</name>
   <groupId>br.com.alura</groupId>
-  <artifactId>relatorios</artifactId>
+  <artifactId>relatorio</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <url>https://www.github.com/phmiranda</url>
 
